@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='true'>
+    <pages>
+        <page name='sink'/>
+        <page name='assign'/>
+        <page name='operator'/>
+        <page name='viewmodel'/>
+        <page name='erase0'/>
+        <page name='erase1'/>
+        <page name='erase2'/>
+        <page name='map'/>
+        <page name='replaceNil'/>
+        <page name='compactMap'/>
+        <page name='tryMap'/>
+        <page name='retry'/>
+        <page name='filter'/>
+        <page name='combineLatest'/>
+    </pages>
+</playground>
